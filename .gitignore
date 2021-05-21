@@ -1,2 +1,5 @@
 .idea
 *.iml
+dev.properties
+application.properties
+target
